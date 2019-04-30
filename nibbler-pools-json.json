@@ -1,6 +1,6 @@
 {
 	"pools": [
-	{
+	  {	
 		"name"		: "NBX - XTRI Llama Horse Mining Corp",
 		"url"		: "xtri.nbx.llama.horse",
 		"type"		: "merged",
@@ -17,9 +17,9 @@
 			 "port" : "19235
 			}
 		]
-	},
-	{
-		"name"		: "NBX  Llama Horse Mining Corp",
+	  },
+	  {
+		"name"		: "NBX Llama Horse Mining Corp",
 		"url"		: "nbx.llama.horse",
 		"type"		: "single",
 		"pool_data"	: [
@@ -30,7 +30,8 @@
 			}
 		
 		]
-	}
+	  }
+	]
 }
 	
 
