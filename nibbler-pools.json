@@ -8,12 +8,14 @@
         {
           "coin":"xtri",
           "url":"pool.llama.horse",
-          "port":19233
+          "port":19233,
+          "ssl": false
         },
         {
           "coin":"nbx",
           "url":"pool.llama.horse",
-          "port":19235
+          "port":19235,
+          "ssl" :false
         }
       ]
     },
@@ -25,7 +27,8 @@
         {
           "coin":"nbx",
           "url":"pool.llama.horse",
-          "port":17125
+          "port":17125,
+          "ssl: true
         }
       ]
     }
