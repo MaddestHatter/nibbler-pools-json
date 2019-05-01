@@ -28,7 +28,7 @@
           "coin":"nbx",
           "url":"pool.llama.horse",
           "port":17125,
-          "ssl: true
+          "ssl": true
         }
       ]
     }
