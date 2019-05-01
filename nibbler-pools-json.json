@@ -17,19 +17,6 @@
 			 "port":"19235
 			}
 		]
-	  },
-	  {
-		"name":"NBX Llama Horse Mining Corp",
-		"url":"nbx.llama.horse",
-		"type":"single",
-		"pool_data": [
-			{
-			  "coin":"nbx",
-			  "url":"pool.llama.horse",
-			  "port": 17125
-			}
-		
-		]
 	  }
 	]
 }
