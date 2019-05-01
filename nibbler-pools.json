@@ -1,38 +1,33 @@
 {
-	"pools": [
-	  {	
-		"name"		: "NBX - XTRI Llama Horse Mining Corp",
-		"url"		: "xtri.nbx.llama.horse",
-		"type"		: "merged",
-		"pool_data"	: [
-			{ 
-			 "coin" : "xtri",
-			 "url"	: "pool.llama.horse",
-			 "port"	: 19233
-
-			},
-			{
-			 "coin" : "nbx",
-			 "url"	: "pool.llama.horse",
-			 "port" : 19235
-			}
-		]
-	  },
-	  {
-		"name"		: "NBX Llama Horse Mining Corp",
-		"url"		: "nbx.llama.horse",
-		"type"		: "single",
-		"pool_data"	: [
-			{
-			  "coin": "nbx",
-			  "url"	: "pool.llama.horse",
-			  "port": 17125
-			}
-		
-		]
-	  }
-	]
+  "pools":[
+    {
+      "name":"NBX - XTRI Llama Horse Mining Corp",
+      "url":"xtri.nbx.llama.horse",
+      "type":"merged",
+      "pool_data":[
+        {
+          "coin":"xtri",
+          "url":"pool.llama.horse",
+          "port":19233
+        },
+        {
+          "coin":"nbx",
+          "url":"pool.llama.horse",
+          "port":19235
+        }
+      ]
+    },
+    {
+      "name":"NBX Llama Horse Mining Corp",
+      "url":"nbx.llama.horse",
+      "type":"single",
+      "pool_data":[
+        {
+          "coin":"nbx",
+          "url":"pool.llama.horse",
+          "port":17125
+        }
+      ]
+    }
+  ]
 }
-	
-
-
