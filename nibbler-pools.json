@@ -3,6 +3,7 @@
     {
       "name":"NBX - XTRI Llama Horse Mining Corp",
       "url":"xtri.nbx.llama.horse",
+      "ssl":false,
       "type":"merged",
       "pool_data":[
         {
@@ -22,12 +23,27 @@
     {
       "name":"NBX Llama Horse Mining Corp",
       "url":"nbx.llama.horse",
+      "ssl": true,
       "type":"single",
       "pool_data":[
         {
           "coin":"nbx",
           "url":"pool.llama.horse",
           "port":17125,
+          "ssl": true
+        }
+      ]
+    },
+    {
+      "name":"hackerknowledge",
+      "url":"nbx.llama.horse",
+      "ssl": true,
+      "type":"merged",
+      "pool_data":[
+        {
+          "coin":"nbx",
+          "url":"pool.nbx.hackerknowledge.de",
+          "port":8119,
           "ssl": true
         }
       ]
