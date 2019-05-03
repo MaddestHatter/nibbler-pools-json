@@ -15,7 +15,7 @@
         {
           "coin":"nbx",
           "url":"pool.llama.horse",
-          "port":19235,
+          "port":19234,
           "ssl" :false
         }
       ]
