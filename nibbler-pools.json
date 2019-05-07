@@ -70,7 +70,8 @@
       "pool_data":[
         {
           "coin":"nbx",
-          "url":"cnpool.cc/api/nbx/",
+          "url":"cnpool.cc",
+          "folder":"/api/nbx/",
           "port":443,
           "ssl": true
         }
@@ -84,7 +85,8 @@
       "pool_data":[
         {
           "coin":"nbx",
-          "url":"webnbx.semipool.com/api/pool/",
+          "url":"webnbx.semipool.com",
+          "folder":"/api/pool/",
           "port":443,
           "ssl": true
         }
