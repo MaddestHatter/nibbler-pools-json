@@ -75,6 +75,20 @@
           "ssl": true
         }
       ]
+    },
+    {
+      "name":"semipool.com",
+      "url":"webnbx.semipool.com",
+      "ssl": true,
+      "type":"merge",
+      "pool_data":[
+        {
+          "coin":"nbx",
+          "url":"webnbx.semipool.com/api/pool/",
+          "port":443,
+          "ssl": true
+        }
+      ]
     }
   ]
 }
