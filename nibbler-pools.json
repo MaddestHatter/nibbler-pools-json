@@ -11,7 +11,7 @@
           "url":"pool.llama.horse",
           "folder":"",
           "port":19233,
-          "jpath": {"hashrate":"$[pool][hashrate]"},
+          "jpath": {"hashrate":["pool","hashrate"]},
           "ssl": false
         },
         {
@@ -19,7 +19,7 @@
           "url":"pool.llama.horse",
           "folder":"",
           "port":19234,
-          "jpath": {"hashrate":"$[pool][hashrate]"},
+          "jpath": {"hashrate":"[pool,hashrate]"},
           "ssl" :false
         }
       ]
