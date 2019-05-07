@@ -99,7 +99,7 @@
           "url":"webnbx.semipool.com",
           "folder":"/api/pool",
           "port":443,
-          "jpath": {"hashrate":"['pool_statistics']['hashRate']"},
+          "jpath": {"hashrate":"[/'pool_statistics/'][/'hashRate/']"},
           "ssl": true
         }
       ]
