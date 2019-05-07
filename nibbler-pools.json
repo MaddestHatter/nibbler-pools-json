@@ -47,6 +47,20 @@
           "ssl": true
         }
       ]
+    },
+    {
+      "name":"cryptonight",
+      "url":"nbx.cryptonight.mine.nu",
+      "ssl": true,
+      "type":"single",
+      "pool_data":[
+        {
+          "coin":"nbx",
+          "url":"nbx.cryptonight.mine.nu",
+          "port":8119,
+          "ssl": true
+        }
+      ]
     }
   ]
 }
