@@ -61,6 +61,20 @@
           "ssl": true
         }
       ]
+    },
+    {
+      "name":"cnpool.cc",
+      "url":"cnpool.cc/nbx/",
+      "ssl": true,
+      "type":"merge",
+      "pool_data":[
+        {
+          "coin":"nbx",
+          "url":"cnpool.cc/api/nbx/",
+          "port":"",
+          "ssl": true
+        }
+      ]
     }
   ]
 }
