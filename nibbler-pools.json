@@ -71,7 +71,7 @@
         {
           "coin":"nbx",
           "url":"cnpool.cc/api/nbx/",
-          "port":"",
+          "port":443,
           "ssl": true
         }
       ]
