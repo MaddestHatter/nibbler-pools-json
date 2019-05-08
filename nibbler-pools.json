@@ -11,7 +11,7 @@
           "url":"pool.llama.horse",
           "folder":"",
           "port":19233,
-          "jpath": {"hashrate":"[\"pool\"][\"hashrate\"]"},
+          "jpath": {"hashrate": ["pool","hashrate"]},
           "ssl": false
         },
         {
@@ -19,7 +19,7 @@
           "url":"pool.llama.horse",
           "folder":"",
           "port":19234,
-          "jpath": {"hashrate":"[\"pool\"][\"hashrate\"]"},
+          "jpath": {"hashrate": ["pool","hashrate"]},
           "ssl" :false
         }
       ]
@@ -35,7 +35,7 @@
           "url":"pool.llama.horse",
           "folder":"",
           "port":17125,
-          "jpath": {"hashrate":"[\"pool\"][\"hashrate\"]"},
+          "jpath": {"hashrate": ["pool","hashrate"]},
           "ssl": true
         }
       ]
@@ -51,7 +51,7 @@
           "url":"pool.nbx.hackerknowledge.de",
           "folder":"",
           "port":8119,
-          "jpath": {"hashrate":"[\"pool\"][\"hashrate\"]"},
+          "jpath": {"hashrate": ["pool","hashrate"]},
           "ssl": true
         }
       ]
@@ -67,7 +67,7 @@
           "url":"nbx.cryptonight.mine.nu",
           "folder":"",
           "port":8119,
-          "jpath": {"hashrate":"[\"pool\"][\"hashrate\"]"},
+          "jpath": {"hashrate": ["pool","hashrate"]},
           "ssl": true
         }
       ]
@@ -83,7 +83,7 @@
           "url":"cnpool.cc",
           "folder":"/api/nbx",
           "port":443,
-          "jpath": {"hashrate":"[\"pool\"][\"hashrate\"]"},
+          "jpath": {"hashrate": ["pool","hashrate"]},
           "ssl": true
         }
       ]
@@ -99,7 +99,7 @@
           "url":"webnbx.semipool.com",
           "folder":"/api/pool",
           "port":443,
-          "jpath": {"hashrate":"[\"pool_statistics\"][\"hashRate\"]"},
+          "jpath": {"hashrate":["pool_statistics"],["hashRate"]},
           "ssl": true
         }
       ]
