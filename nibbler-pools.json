@@ -103,6 +103,22 @@
           "ssl": true
         }
       ]
+    },
+    {
+      "name":"my-mining-pool.de",
+      "url":"nibbleclassic.my-mining-pool.de",
+      "ssl": true,
+      "type":"single",
+      "pool_data":[
+        {
+          "coin":"nbx",
+          "url":"apinibbleclassic.my-mining-pool.de",
+          "folder":"",
+          "port":443,
+          "jpath": {"hashrate": ["pool","hashrate"]},
+          "ssl": true
+        }
+      ]
     }
   ]
 }
