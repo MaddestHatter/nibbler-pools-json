@@ -7,14 +7,6 @@
       "type":"merged",
       "pool_data":[
         {
-          "coin":"xtri",
-          "url":"pool.llama.horse",
-          "folder":"",
-          "port":19233,
-          "jpath": {"hashrate": ["pool","hashrate"]},
-          "ssl": false
-        },
-        {
           "coin":"nbx",
           "url":"pool.llama.horse",
           "folder":"",
