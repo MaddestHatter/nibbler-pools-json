@@ -33,22 +33,6 @@
       ]
     },
     {
-      "name":"hackerknowledge",
-      "url":"nbx.hackerknowledge.de",
-      "ssl": true,
-      "type":"merged",
-      "pool_data":[
-        {
-          "coin":"nbx",
-          "url":"pool.nbx.hackerknowledge.de",
-          "folder":"",
-          "port":8119,
-          "jpath": {"hashrate": ["pool","hashrate"]},
-          "ssl": true
-        }
-      ]
-    },
-    {
       "name":"cryptonight",
       "url":"nbx.cryptonight.mine.nu",
       "ssl": true,
