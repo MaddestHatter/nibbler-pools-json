@@ -1,50 +1,18 @@
 {
   "pools":[
     {
-      "name":"NBX - XTRI Llama Horse Mining Corp",
-      "url":"xtri.nbx.llama.horse",
-      "ssl":false,
+      "name":"Fastpools - NBX + Merged Mining (AEON,XUN,XEQ,AEON)",
+      "url":"fastpool.xyz/nbx/",
+      "ssl":true,
       "type":"merged",
       "pool_data":[
         {
           "coin":"nbx",
-          "url":"pool.llama.horse",
+          "url":"backup.fastpool.xyz",
           "folder":"",
-          "port":19234,
+          "port":10034,
           "jpath": {"hashrate": ["pool","hashrate"]},
           "ssl" :false
-        }
-      ]
-    },
-    {
-      "name":"NBX Llama Horse Mining Corp",
-      "url":"nbx.llama.horse",
-      "ssl": true,
-      "type":"single",
-      "pool_data":[
-        {
-          "coin":"nbx",
-          "url":"pool.llama.horse",
-          "folder":"",
-          "port":17125,
-          "jpath": {"hashrate": ["pool","hashrate"]},
-          "ssl": true
-        }
-      ]
-    },
-    {
-      "name":"cryptonight",
-      "url":"nbx.cryptonight.mine.nu",
-      "ssl": true,
-      "type":"single",
-      "pool_data":[
-        {
-          "coin":"nbx",
-          "url":"nbx.cryptonight.mine.nu",
-          "folder":"",
-          "port":8119,
-          "jpath": {"hashrate": ["pool","hashrate"]},
-          "ssl": true
         }
       ]
     },
