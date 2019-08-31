@@ -12,7 +12,7 @@
           "folder":"",
           "port":10034,
           "jpath": {"hashrate": ["pool","hashrate"]},
-          "ssl" :false
+          "ssl" :true
         }
       ]
     },
