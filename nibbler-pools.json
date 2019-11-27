@@ -62,7 +62,23 @@
           "jpath": {"hashrate": ["pool","hashrate"]},
           "ssl": true
         }
-      ]
+       ]
+     },
+     {
+       "name":"minercountry.com",
+       "url":"xun.minercountry.com",
+       "ssl":true,
+       "type":"merge",
+       "pool_data":[
+         {
+           "coin":"nbx",
+           "url":"xun.minercountry.com",
+           "folder":"/mapi",
+           "port":443,
+           "jpath":{"hashrate": ["pool","hashrate"]},
+           "ssl":true
+         }
+       ]
     }
   ]
 }
